@@ -1,0 +1,4 @@
+{
+  "frontend/src/App.tsx": "Main application component that displays the word \"pancake\" in large, centered text with a minimal, clean design.",
+  "frontend/src/index.css": "Global styles with OKLCH color system for light and dark modes, maintaining a clean monochromatic palette."
+}
